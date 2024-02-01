@@ -1,0 +1,392 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "todo": "Memorize the fifty states and their capitals"
+    },
+    {
+      "todo": "Watch a classic movie ",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "todo": "Contribute code or a monetary donation to an open-source software project"
+    },
+    {
+      "id": 7,
+      "todo": "Go see a Broadway production"
+    },
+    {
+      "id": 8,
+      "todo": "Write a thank you letter to an influential person in my life"
+    },
+    {
+      "id": 9,
+      "todo": "Invite some friends over for a game night"
+    },
+    {
+      "id": 10,
+      "todo": "Have a football scrimmage with some friends"
+    },
+    {
+      "id": 11,
+      "todo": "Text a friend I haven't talked to in a long time"
+    },
+    {
+      "id": 12,
+      "todo": "Organize pantry"
+    },
+    {
+      "id": 13,
+      "todo": "Buy a new house decoration"
+    },
+    {
+      "id": 14,
+      "todo": "Plan a vacation I've always wanted to take"
+    },
+    {
+      "id": 15,
+      "todo": "Clean out car"
+    },
+    {
+      "id": 16,
+      "todo": "Draw and color a Mandala"
+    },
+    {
+      "id": 17,
+      "todo": "Create a cookbook with favorite recipes"
+    },
+    {
+      "id": 18,
+      "todo": "Bake a pie with some friends"
+    },
+    {
+      "id": 19,
+      "todo": "Create a compost pile"
+    },
+    {
+      "id": 20,
+      "todo": "Take a hike at a local park"
+    },
+    {
+      "id": 21,
+      "todo": "Take a class at local community center that interests you"
+    },
+    {
+      "id": 22,
+      "todo": "Research a topic interested in"
+    },
+    {
+      "id": 23,
+      "todo": "Plan a trip to another country"
+    },
+    {
+      "id": 24,
+      "todo": "Improve touch typing"
+    },
+    {
+      "id": 25,
+      "todo": "Learn Express.js"
+    },
+    {
+      "id": 26,
+      "todo": "Learn calligraphy"
+    },
+    {
+      "id": 27,
+      "todo": "Have a photo session with some friends"
+    },
+    {
+      "id": 28,
+      "todo": "Go to the gym"
+    },
+    {
+      "id": 29,
+      "todo": "Make own LEGO creation"
+    },
+    {
+      "id": 30,
+      "todo": "Take cat on a walk"
+    },
+    {
+      "id": 31,
+      "todo": "Find a charity and donate to it"
+    },
+    {
+      "id": 32,
+      "todo": "Donate to local food bank"
+    },
+    {
+      "id": 33,
+      "todo": "Uninstall unused apps from devices"
+    },
+    {
+      "id": 34,
+      "todo": "Write a handwritten letter to somebody"
+    },
+    {
+      "id": 35,
+      "todo": "Fill out a basketball bracket"
+    },
+    {
+      "id": 36,
+      "todo": "Do yoga"
+    },
+    {
+      "id": 37,
+      "todo": "Make a scrapbook with pictures of favorite memories"
+    },
+    {
+      "id": 38,
+      "todo": "Have a bonfire with close friends"
+    },
+    {
+      "id": 39,
+      "todo": "Go for a run"
+    },
+    {
+      "id": 40,
+      "todo": "Host a movie marathon with some friends"
+    },
+    {
+      "id": 41,
+      "todo": "Go see a movie in theaters with a few friends"
+    },
+    {
+      "id": 42,
+      "todo": "Wash car"
+    },
+    {
+      "id": 43,
+      "todo": "Patronize a local independent restaurant"
+    },
+    {
+      "id": 44,
+      "todo": "Watch a Khan Academy lecture on a subject of choosing"
+    },
+    {
+      "id": 45,
+      "todo": "Learn Javascript"
+    },
+    {
+      "id": 46,
+      "todo": "Volunteer at a local animal shelter"
+    },
+    {
+      "id": 47,
+      "todo": "Volunteer at local food pantry"
+    },
+    {
+      "id": 48,
+      "todo": "Start a book I've never gotten around to reading"
+    },
+    {
+      "id": 49,
+      "todo": "Mow neighbor's lawn"
+    },
+    {
+      "id": 50,
+      "todo": "Start a band"
+    },
+    {
+      "id": 51,
+      "todo": "Organize music collection"
+    },
+    {
+      "id": 52,
+      "todo": "Organize a cluttered drawer"
+    },
+    {
+      "id": 53,
+      "todo": "Learn a new recipe"
+    },
+    {
+      "id": 54,
+      "todo": "Start a daily journal"
+    },
+    {
+      "id": 55,
+      "todo": "Clean out closet and donate the clothes I've outgrown"
+    },
+    {
+      "id": 56,
+      "todo": "Go on a fishing trip with some friends"
+    },
+    {
+      "id": 57,
+      "todo": "Learn Morse code"
+    },
+    {
+      "id": 58,
+      "todo": "Listen to a new podcast"
+    },
+    {
+      "id": 59,
+      "todo": "Color"
+    },
+    {
+      "id": 60,
+      "todo": "Take dog on a walk"
+    },
+    {
+      "id": 61,
+      "todo": "Start a blog for something I'm passionate about"
+    },
+    {
+      "id": 62,
+      "todo": "Listen to a new music genre"
+    },
+    {
+      "id": 63,
+      "todo": "Learn how to write in shorthand"
+    },
+    {
+      "id": 64,
+      "todo": "Practice coding in favorite language"
+    },
+    {
+      "id": 65,
+      "todo": "Read a formal research paper on an interesting subject"
+    },
+    {
+      "id": 67,
+      "todo": "Make a couch fort"
+    },
+    {
+      "id": 68,
+      "todo": "Take a caffeine nap"
+    },
+    {
+      "id": 69,
+      "todo": "Find a DIY to do"
+    },
+    {
+      "id": 70,
+      "todo": "Go to a concert with some friends"
+    },
+    {
+      "id": 71,
+      "todo": "Give pet ten minutes of focused attention"
+    },
+    {
+      "id": 72,
+      "todo": "Rearrange and organize room"
+    },
+    {
+      "id": 73,
+      "todo": "Learn how to play a new sport"
+    },
+    {
+      "id": 74,
+      "todo": "Make homemade ice cream"
+    },
+    {
+      "id": 75,
+      "todo": "Hold a yard sale"
+    },
+    {
+      "id": 76,
+      "todo": "Learn to play a new instrument"
+    },
+    {
+      "id": 77,
+      "todo": "Resolve a problem I've been putting off"
+    },
+    {
+      "id": 78,
+      "todo": "Bake something I've never tried before"
+    },
+    {
+      "id": 79,
+      "todo": "Organize dresser"
+    },
+    {
+      "id": 80,
+      "todo": "Fix something that's broken in house"
+    },
+    {
+      "id": 81,
+      "todo": "Play a video game"
+    },
+    {
+      "id": 82,
+      "todo": "Listen to music I haven't heard in a while"
+    },
+    {
+      "id": 83,
+      "todo": "Look at finances and find one way to save money"
+    },
+    {
+      "id": 84,
+      "todo": "Learn the periodic table"
+    },
+    {
+      "id": 85,
+      "todo": "Make a budget"
+    },
+    {
+      "id": 86,
+      "todo": "Donate blood at a local blood center"
+    },
+    {
+      "id": 87,
+      "todo": "Go to the library and find an interesting book"
+    },
+    {
+      "id": 88,
+      "todo": "Configure two-factor authentication on accounts"
+    },
+    {
+      "id": 89,
+      "todo": "Take a nap"
+    },
+    {
+      "id": 90,
+      "todo": "Create or update resume"
+    },
+    {
+      "id": 91,
+      "todo": "Prepare a 72-hour kit"
+    },
+    {
+      "id": 92,
+      "todo": "Go on a long drive with no music"
+    },
+    {
+      "id": 93,
+      "todo": "Learn the NATO phonetic alphabet"
+    },
+    {
+      "id": 94,
+      "todo": "Have a jam session with friends"
+    },
+    {
+      "id": 95,
+      "todo": "Hold a video game tournament with some friends"
+    },
+    {
+      "id": 96,
+      "todo": "Catch up on world news"
+    },
+    {
+      "id": 97,
+      "todo": "Do a jigsaw puzzle"
+    },
+    {
+      "id": 98,
+      "todo": "Learn about the Golden Ratio"
+    },
+    {
+      "todo": "Watch a classic movie ",
+      "id": 99
+    },
+    {
+      "todo": "Watch a classic movie  df",
+      "id": 100
+    },
+    {
+      "todo": "dasf",
+      "id": 101
+    }
+  ]
+}

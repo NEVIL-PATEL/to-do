@@ -1,0 +1,7 @@
+1) npm install 
+
+// start the server by using 'npm run server' which is automatically start server on port no 3004
+2) npm run server 
+
+// start react app 
+3) npm start
